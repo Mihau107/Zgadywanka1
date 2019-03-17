@@ -10,7 +10,7 @@ Projekt realizowany na zajęciach
 rhrthrthrthevg
 regerberbebrebrebreb
 rebrebreb
-rebrebrebdgnfdgfndndfndfnr
+~~rebrebrebdgnfdgfndndfndfnr~~
 bnrebrevrev
 dfbdfb
 dfbdfbdfbtenern
@@ -18,5 +18,5 @@ dfbdfbdfbtenern
 - lul
 - xd
 
-1. go lmao
+1. lmao
 2. ayy
