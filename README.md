@@ -20,3 +20,5 @@ dfbdfbdfbtenern
 
 1. lmao
 2. ayy
+
+|Anna|Janusz|
