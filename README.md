@@ -18,5 +18,5 @@ dfbdfbdfbtenern
 - lul
 - xd
 
-1. lmao
+1. go lmao
 2. ayy
